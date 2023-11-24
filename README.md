@@ -17,3 +17,4 @@ pssm=0.1.0
 PSSMGen=1.1.2  
 scikit-learn==1.0.2  
 torch-geometric==2.0.3  
+eppic WebServer：(https://www.eppic-web.org/)
