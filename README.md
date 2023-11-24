@@ -4,4 +4,6 @@ SAGERank: Inductive Learning of Protein-Protein Interaction from Antibody-Antige
 The framework of SAGERank:
 ![image](model.png)
 
+Features: The SAGERank models trained for antibody-antigen docking can be used to examine generally protein-protein interaction docking, determining whether protein and protein can bind and differentiate crystal packing from biological interface.
+
 Main results:
