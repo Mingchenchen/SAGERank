@@ -8,12 +8,12 @@ The SAGERank models trained for antibody-antigen docking can be used to examine 
 ![image](Schematic-drawing1.png)
 ![image](Schematic-drawing2.png)
 ## Dependencies
-biopython==1.79
-freesasa==2.0.3.post7
-numpy==1.23.3
-pdb2pqr=3.5.2
-pdb2sql=0.5.1
-pssm=0.1.0
-PSSMGen=1.1.2
-scikit-learn==1.0.2
-torch-geometric==2.0.3
+biopython==1.79  
+freesasa==2.0.3.post7  
+numpy==1.23.3  
+pdb2pqr=3.5.2  
+pdb2sql=0.5.1  
+pssm=0.1.0  
+PSSMGen=1.1.2  
+scikit-learn==1.0.2  
+torch-geometric==2.0.3  
