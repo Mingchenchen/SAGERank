@@ -25,4 +25,5 @@ eppic WebServer：(https://www.eppic-web.org/)
 4. `Generating a graph structure file.` You can choose the node construction based on amino acids or atoms, or you can choose to calculate the relationship between amino acid pairs and atomic pairs based on the antibody CDR region or three-dimensional coordinates.
 ## Training on your own data set
 Follow the steps in data preparation, if you have access to a large number of graph structure files, then you can use the `train.py` script for training, and you can also use `test.py` for testing related tasks
-
+## Reference and cite content
+Chuance Sun, Ganggang Bai, Honglin Xu, Yanjing Wang, Buyong Ma. SAGERank: Inductive Learning of Protein-Protein Interaction from Antibody-Antigen Recognition using Graph Sample and Aggregate Networks Framework. bioRxiv 2023.10.11.561985; doi: https://doi.org/10.1101/2023.10.11.561985
